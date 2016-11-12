@@ -1,3 +1,5 @@
-.settings/
+.settings
 .project
 target/
+.classpath
+.gitignore
