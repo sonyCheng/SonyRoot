@@ -73,7 +73,11 @@
 			<artifactId>commons-logging</artifactId>
 			<version>1.2</version>
 		</dependency>
-
+		<dependency>
+			<groupId>Sony</groupId>
+			<artifactId>sonydb</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>sonywebsite</finalName>
